@@ -58,20 +58,7 @@ Group by Location, Population, date
 order by PercentPopulationInfected desc
 
 
-
-
-
-
-
-
-
-
-
-
--- Queries I originally had, but excluded some because it created too long of video
--- Here only in case you want to check them out
-
-
+-- Additional Queries (for other visualizations)
 -- 1.
 
 Select dea.continent, dea.location, dea.date, dea.population
